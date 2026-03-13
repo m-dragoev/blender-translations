@@ -1759,10 +1759,10 @@ msgid "Collection of worlds"
 msgstr "Колекция от светове"
 
 msgid "Blender RNA"
-msgstr "Блендер РНК"
+msgstr "Blender RNA"
 
 msgid "Blender RNA structure definitions"
-msgstr "Определения на структурите на Блендер РНА"
+msgstr "Определения на структурите на Blender RNA"
 
 msgid "Structs"
 msgstr "Структури"
@@ -4893,7 +4893,7 @@ msgid ""
 "combining rotation and non-uniform scale"
 msgstr ""
 "Прилага каналите на действието преди оригиналната трансформация, сякаш са "
-"приложени към въображаем родител в режим „Фулл Инхерит Скале“. Ще създаде "
+"приложени към въображаем родител в режим \"Full Inherit Scale\". Ще създаде "
 "срязване при комбиниране на въртене и неравномерен мащаб"
 
 msgid "Before Original (Aligned)"
@@ -4905,8 +4905,9 @@ msgid ""
 "Full for location and Split Channels for rotation and scale"
 msgstr ""
 "Прилага каналите на действието преди оригиналната трансформация, сякаш са "
-"приложени към въображаем родител в режим „Алигнед Инхерит Скале“. Това "
-"ефективно използва „Фулл“ за позиция и „Сплит Сханнелс“ за въртене и мащаб"
+"приложени към въображаем родител в режим \"Aligned Inherit Scale\". Това "
+"ефективно използва \"Full\" за позиция и \"Split Channels\" за въртене и "
+"мащаб"
 
 msgid "Before Original (Split Channels)"
 msgstr "Преди оригинала (Разделени канали)"
@@ -4927,7 +4928,7 @@ msgid ""
 "combining rotation and non-uniform scale"
 msgstr ""
 "Прилага каналите на действието след оригиналната трансформация, сякаш са "
-"приложени към въображаемо дете в режим „Фулл Инхерит Скале“. Ще създаде "
+"приложени към въображаемо дете в режим \"Full Inherit Scale\". Ще създаде "
 "срязване при комбиниране на въртене и неравномерен мащаб"
 
 msgid "After Original (Aligned)"
@@ -4939,8 +4940,9 @@ msgid ""
 "Full for location and Split Channels for rotation and scale"
 msgstr ""
 "Прилага каналите на действието след оригиналната трансформация, сякаш са "
-"приложени към въображаемо дете в режим „Алигнед Инхерит Скале“. Това "
-"ефективно използва „Фулл“ за позиция и „Сплит Сханнелс“ за въртене и мащаб"
+"приложени към въображаемо дете в режим \"Aligned Inherit Scale\". Това "
+"ефективно използва \"Full\" за позиция и \"Split Channels\" за въртене и "
+"мащаб"
 
 msgid "After Original (Split Channels)"
 msgstr "След оригинала (Разделени канали)"
@@ -19806,7 +19808,7 @@ msgid "Preview Range End Frame"
 msgstr "Преглед Ранге Енд Фраме"
 
 msgid "Alternative end frame for UI playback"
-msgstr "Алтернативен краен кадър за УИ възпроизвеждане"
+msgstr "Алтернативен краен кадър за UI възпроизвеждане"
 
 msgid "Preview Range Start Frame"
 msgstr "Стартова рамка за преглед"
@@ -21048,16 +21050,16 @@ msgid "Grease Pencil Weight Paint"
 msgstr "Гриза молив Тегло Боя"
 
 msgid "UI Tags"
-msgstr "УИ тагове"
+msgstr "UI тагове"
 
 msgid "Screen layouts of a workspace"
 msgstr "Екранни подредби на работно пространство"
 
 msgid "Use UI Tags"
-msgstr "Използване на УИ тагове"
+msgstr "Използване на UI тагове"
 
 msgid "Filter the UI by tags"
-msgstr "Филтриране на УИ с тагове"
+msgstr "Филтриране на UI по тагове"
 
 msgid ""
 "World data-block describing the environment and ambient lighting of a scene"
@@ -21131,7 +21133,7 @@ msgid "List of overriding operations for a property"
 msgstr "Списък на императивните операции за имущество"
 
 msgid "RNA Path"
-msgstr "РНК път"
+msgstr "RNA път"
 
 msgid "RNA path leading to that property, from owning ID"
 msgstr "РНК път, водещ до този имот, от притежаване ИД"
@@ -22739,7 +22741,7 @@ msgstr ""
 "определено от скрипта, тогава бл иднаме = \"БУИЛТИН КСИ локатион\")"
 
 msgid "UI Name"
-msgstr "Име на УИ"
+msgstr "Име за UI"
 
 msgid ""
 "Keying Set defines specific paths/settings to be keyframed (i.e. is not "
@@ -28613,7 +28615,7 @@ msgid "Show Tracks"
 msgstr "Показване на записи"
 
 msgid "Show UI list of tracks participating in stabilization"
-msgstr "Показване на УИ списъка с песни, участващи в стабилизирането"
+msgstr "Показване на UI списъка с тракове, участващи в стабилизирането"
 
 msgid "Expected Position"
 msgstr "Очаквана позиция"
@@ -30462,7 +30464,7 @@ msgid "Z Up"
 msgstr "З нагоре"
 
 msgid "Font of the text. Falls back to the UI font by default"
-msgstr "Шрифт на текста. Връщане към УИ шрифта по подразбиране"
+msgstr "Шрифт на текста. По подразбиране използва шрифта на UI"
 
 msgid "Pack UV Islands"
 msgstr "Пакет #0# Острови"
@@ -32361,7 +32363,7 @@ msgid "Delete Keyframe (Buttons)"
 msgstr "Изтриване на клавиатурата (бутони)"
 
 msgid "Delete current keyframe of current UI-active property"
-msgstr "Изтриване на текущата клавиатура на текущото УИ-активно свойство"
+msgstr "Изтриване на текущия ключов кадър за активното в UI свойство"
 
 msgid "Delete keyframes from all elements of the array"
 msgstr "Изтриване на ключови рамки от всички елементи на масива"
@@ -32397,7 +32399,7 @@ msgid "Insert Keyframe (Buttons)"
 msgstr "Вмъкване на клавиатура (бутони)"
 
 msgid "Insert a keyframe for current UI-active property"
-msgstr "Вмъкване на ключ за текущо УИ-активно свойство"
+msgstr "Вмъкване на ключов кадър за активното в UI свойство"
 
 msgid "Insert a keyframe for all element of the array"
 msgstr "Вмъкване на клавиатура за всички елементи на масива"
@@ -32464,7 +32466,7 @@ msgid "Add to Keying Set"
 msgstr "Добавяне към комплекта за ключове"
 
 msgid "Add current UI-active property to current keying set"
-msgstr "Добавяне на текущо УИ-активно свойство към текущия набор от ключове"
+msgstr "Добавяне на активното в UI свойство към текущия набор от ключове"
 
 msgid "Add all elements of the array to a Keying Set"
 msgstr "Добавяне на всички елементи на масива към комплекта Кейинг"
@@ -50032,15 +50034,16 @@ msgid ""
 "while importing. This option is deprecated; EXECUTE this operator to run in "
 "the foreground, and INVOKE it to run as a background job"
 msgstr ""
-"Включете това, за да стартирате вноса във фонов режим, деактивирайте за "
-"блокиране на Блендер при внос. Тази опция е отхвърлена; УСЛУЖВАНЕ на този "
-"оператор да работи на преден план, и ИНВОКЕ да работи като фонова работа"
+"Включете това, за да стартирате импортирането във фонов режим. Изключете "
+"го, за да блокирате Blender по време на импортиране. Тази опция е "
+"остаряла; използвайте EXECUTE за работа на преден план и INVOKE за фонова "
+"задача"
 
 msgid "Curves as Mesh"
-msgstr "Завивки като кош"
+msgstr "Криви като мрежа"
 
 msgid "Export curves and NURBS surfaces as meshes"
-msgstr "Експортни криви и повърхности на НУРБС като мрежи"
+msgstr "Експортира криви и NURBS повърхности като мрежи"
 
 msgid ""
 "End frame of the export, use the default value to take the end frame of the "
@@ -50053,8 +50056,8 @@ msgid ""
 "Determines visibility of objects, modifier settings, and other areas where "
 "there are different settings for viewport and rendering"
 msgstr ""
-"Определя видимостта на обекти, модификатори настройки, и други области, "
-"където има различни настройки за преглед и превод"
+"Определя видимостта на обектите, настройките на модификаторите и други "
+"области, където има различни настройки за изглед и изобразяване"
 
 msgid "Export Hair"
 msgstr "Експортиране на коса"
@@ -50072,10 +50075,10 @@ msgid "Export per face shading group assignments"
 msgstr "Експортиране на групи за засенчване на лица"
 
 msgid "Flatten Hierarchy"
-msgstr "Флаттен Йерархия"
+msgstr "Слей йерархията"
 
 msgid "Do not preserve objects' parent/children relationship"
-msgstr "Не запазвайте връзката родител/деца на обектите"
+msgstr "Не запазва връзката родител/дете между обектите"
 
 msgid ""
 "Value by which to enlarge or shrink the objects with respect to the world's "
@@ -50085,31 +50088,31 @@ msgstr ""
 "световния произход"
 
 msgid "Geometry Samples"
-msgstr "Геометрия на пробите"
+msgstr "Проби за геометрия"
 
 msgid "Number of times per frame object data are sampled"
-msgstr "Вземат се проби от броя пъти на всеки обект от рамката"
+msgstr "Колко пъти на кадър се вземат проби от данните на обекта"
 
 msgid "Export normals"
-msgstr "Експортиране на нормалните стойности"
+msgstr "Експортира нормалите"
 
 msgid "Export UVs with packed island"
-msgstr "Експортиране на ултравиолетови лъчи с пакетиран остров"
+msgstr "Експортира UV с пакетирани острови"
 
 msgid "Selected Objects Only"
 msgstr "Само избрани обекти"
 
 msgid "Export only selected objects"
-msgstr "Експортиране само на избрани обекти"
+msgstr "Експортира само избраните обекти"
 
 msgid "Shutter Close"
-msgstr "Затваряне"
+msgstr "Затвор"
 
 msgid "Time at which the shutter is closed"
 msgstr "Време, в което затворът е затворен"
 
 msgid "Shutter Open"
-msgstr "Отваряне на бутон"
+msgstr "Отворен затвор"
 
 msgid "Time at which the shutter is open"
 msgstr "Време, в което затворът е отворен"
@@ -50122,19 +50125,19 @@ msgstr ""
 "вземете началната рамка на текущата сцена"
 
 msgid "Use Subdivision Schema"
-msgstr "Използване на подраздел Счема"
+msgstr "Използване на схема за подразделяне"
 
 msgid "Export meshes using Alembic's subdivision schema"
-msgstr "Експортни мрежи, използващи подразделителна схема на Алембич"
+msgstr "Експортира мрежи чрез схемата за подразделяне на Alembic"
 
 msgid "Export UVs"
-msgstr "Експортиране на ултравиолетови лъчи"
+msgstr "Експортира UV"
 
 msgid "Transform Samples"
-msgstr "Преобразуване на образци"
+msgstr "Проби за трансформации"
 
 msgid "Number of times per frame transformations are sampled"
-msgstr "Брой пъти за една рамка трансформации се вземат проби"
+msgstr "Колко пъти на кадър се вземат проби от трансформациите"
 
 msgctxt "Operator"
 msgid "Import Alembic"
@@ -50148,16 +50151,16 @@ msgid ""
 "while exporting. This option is deprecated; EXECUTE this operator to run in "
 "the foreground, and INVOKE it to run as a background job"
 msgstr ""
-"Включване на това, за да стартирате експорта във фонов режим, деактивирате "
-"за блокиране на Блендер при износ. Тази опция е отхвърлена; УСЛУЖВАНЕ на "
-"този оператор да работи на преден план, и ИНВОКЕ да работи като фонова "
-"работа"
+"Включете това, за да стартирате експортирането във фонов режим. Изключете "
+"го, за да блокирате Blender по време на експортиране. Тази опция е "
+"остаряла; използвайте EXECUTE за работа на преден план и INVOKE за фонова "
+"задача"
 
 msgid "Is Sequence"
-msgstr "Последователността"
+msgstr "Последователност"
 
 msgid "Set to true if the cache is split into separate files"
-msgstr "Задаване на вярно, ако кеша е разделен на отделни файлове"
+msgstr "Включете, ако кешът е разделен в отделни файлове"
 
 msgid "Set Frame Range"
 msgstr "Задаване обхвата на рамката"
@@ -50910,7 +50913,7 @@ msgid "Display File Selector"
 msgstr "Показване на избрания файл"
 
 msgid "Load UI"
-msgstr "Зареждане на УИ"
+msgstr "Зареждане на UI"
 
 msgid "Load user interface setup in the .blend file"
 msgstr "Зареждане на настройките на потребителския интерфейс във файла .бленд"
@@ -50953,7 +50956,7 @@ msgid "Add or remove an Operator Preset"
 msgstr "Добавяне или премахване на предварително зададен оператор"
 
 msgid "UI Tag"
-msgstr "УИ таг"
+msgstr "UI таг"
 
 msgid "Open a path in a file browser"
 msgstr "Отваряне на път във файлов браузър"
@@ -51929,7 +51932,7 @@ msgid "Active Palette Color"
 msgstr "Цвят на активна палитра"
 
 msgid "Panel containing UI elements"
-msgstr "Панел, съдържащ УИ елементи"
+msgstr "Панел, съдържащ UI елементи"
 
 msgid "Integrator Presets"
 msgstr "Предварителни настройки на интегратора"
@@ -54736,7 +54739,7 @@ msgid "The name of the active key configuration"
 msgstr "Име на активната конфигурация на ключа"
 
 msgid "Show UI Key-Config"
-msgstr "Показване на УИ ключ- конфигуриране"
+msgstr "Показване на конфигурацията на UI клавишите"
 
 msgid "2x"
 msgstr "2кс"
@@ -54909,10 +54912,10 @@ msgstr ""
 "освобождава (задаване на 0 за запазване на разпределени текстури)"
 
 msgid "UI Line Width"
-msgstr "Ширина на УИ линията"
+msgstr "Ширина на UI линията"
 
 msgid "UI Scale"
-msgstr "Мащаб на УИ"
+msgstr "Мащаб на UI"
 
 msgid "Region Overlap"
 msgstr "Регион Припокриване"
@@ -55321,7 +55324,7 @@ msgid "Thinner lines than the default"
 msgstr "По-тънки линии от по подразбиране"
 
 msgid "Automatic line width based on UI scale"
-msgstr "Автоматична ширина на линията въз основа на скалата на УИ"
+msgstr "Автоматична ширина на линията според мащаба на UI"
 
 msgid "Thick"
 msgstr "Дебел"
@@ -55373,7 +55376,7 @@ msgid "Translate Tooltips"
 msgstr "Превод на върховете на инструменти"
 
 msgid "Translate the descriptions when hovering UI elements (recommended)"
-msgstr "Преведи описанията при ховеринг УИ елементи (препоръчително)"
+msgstr "Превеждане на описанията при посочване на UI елементи (препоръчително)"
 
 msgid "Use Weight Color Range"
 msgstr "Използване на цветови диапазон на теглото"
@@ -60936,7 +60939,7 @@ msgid "Blender preferences space data"
 msgstr "Блендер предпочитания космически данни"
 
 msgid "Search term for filtering in the UI"
-msgstr "Търсене на термин за филтриране в УИ"
+msgstr "Термин за филтриране в UI"
 
 msgid "Filter method"
 msgstr "Метод на филтриране"
@@ -63402,7 +63405,7 @@ msgid "Use scene orientation instead of a custom setting"
 msgstr "Използване на ориентация на сцената вместо настройка по поръчка"
 
 msgid "UI list containing the elements of a collection"
-msgstr "Списък на УИ, съдържащ елементите на колекция"
+msgstr "UI списък, съдържащ елементите на колекцията"
 
 msgid "FILTER_ITEM"
 msgstr "ФИЛТЪР ИТЕМ"
@@ -63418,10 +63421,10 @@ msgid ""
 "\"OBJECT_UL_vgroups\", and bl_idname is not set by the script, then "
 "bl_idname = \"OBJECT_UL_vgroups\")"
 msgstr ""
-"Ако това е зададено, Йилист получава персонализиран ИД, в противен случай "
-"той отнема името на класа, използван за определяне на Йилист (например, ако "
-"името на класа е \"ОБЙЕСТ УЛ вграупс,\" и бл иднаме не е определен от "
-"скрипта, а след това бл иднаме = \"ОБЙЕСТ УЛ вграупс\")"
+"Ако това е зададено, UI списъкът получава персонализиран ID. В противен "
+"случай използва името на класа, с което е дефиниран UI списъкът "
+"(например, ако името на класа е \"OBJECT_UL_vgroups\" и bl_idname не е "
+"зададен от скрипта, тогава bl_idname = \"OBJECT_UL_vgroups\")"
 
 msgid "Filter by Name"
 msgstr "Филтриране по име"
@@ -64384,7 +64387,7 @@ msgid "Work Space UI Tag"
 msgstr "Работно пространство"
 
 msgid "WorkSpace UI Tags"
-msgstr "Уоркспаке УИ тагове"
+msgstr "UI тагове на работното пространство"
 
 msgctxt "Operator"
 msgid "Action:"
@@ -65240,10 +65243,10 @@ msgstr ""
 "съдържа броя на кадрите в раздела си МОУТИОН"
 
 msgid "Invalid target %r (must be 'ARMATURE' or 'OBJECT')"
-msgstr "Невалидна цел %r (трябва да бъде 'АРМАТУРЕ' или 'ОБЙЕСТ')"
+msgstr "Невалидна цел %r (трябва да бъде 'ARMATURE' или 'OBJECT')"
 
 msgid "Unable to parse XML, %s:%s for file %r"
-msgstr "%s:%s] за файл %r]"
+msgstr "XML не може да бъде анализиран, %s:%s за файл %r"
 
 msgid "Import Options:"
 msgstr "Настройки за импортиране:"
@@ -65261,48 +65264,48 @@ msgid "Position:"
 msgstr "Позиция:"
 
 msgid "Plane dimensions:"
-msgstr "Размери на самолета:"
+msgstr "Размери на равнината:"
 
 msgid "Orientation:"
 msgstr "Ориентация:"
 
 msgid "Added {} Image Plane(s)"
-msgstr "Добавено {} Изображение равнина(с)"
+msgstr "Добавени са {} равнини с изображения"
 
 msgid "%s is not supported"
 msgstr "%s не се поддържа"
 
 msgid "Cannot generate materials for unknown %s render engine"
-msgstr "Не може да генерира материали за неизвестен %s генерира двигател"
+msgstr "Не могат да се генерират материали за непознат енджин за изобразяване %s"
 
 msgid ""
 "Generating Cycles/EEVEE compatible material, but won't be visible with %s "
 "engine"
 msgstr ""
-"Генериране на цикли/ЕЕВЕ съвместим материал, но няма да бъде видим с %s "
-"двигател"
+"Генерира се съвместим материал за Cycles/EEVEE, но няма да бъде видим с "
+"енджина %s"
 
 msgid ""
 "Mesh '%s' has polygons with more than 4 vertices, cannot compute/export "
 "tangent space for it"
 msgstr ""
-"Мрежеста '%s има многоъгълници с повече от 4 върхове, не може да се изчисли "
-"/ експорт тангенс пространство за него"
+"Мрежата '%s' има многоъгълници с повече от 4 върха; не може да се изчисли "
+"или експортира тангентно пространство"
 
 msgid "ASCII FBX files are not supported %r"
-msgstr "АССИИ ФБХ файловете не се поддържат %r"
+msgstr "ASCII FBX файловете не се поддържат %r"
 
 msgid "Version %r unsupported, must be %r or later"
-msgstr "Версия %r неподдържана, трябва да бъде [%r] или по-късно"
+msgstr "Версия %r не се поддържа, трябва да е %r или по-нова"
 
 msgid "No 'GlobalSettings' found in file %r"
-msgstr "Няма намерени 'Глобалсеттингс' във файл %r"
+msgstr "Липсва 'GlobalSettings' във файл %r"
 
 msgid "No 'Objects' found in file %r"
-msgstr "Няма 'Обекти' намерени във файл %r"
+msgstr "Липсва 'Objects' във файл %r"
 
 msgid "No 'Connections' found in file %r"
-msgstr "Не са намерени 'Коннектионс' във файл %r"
+msgstr "Липсва 'Connections' във файл %r"
 
 msgid "Couldn't open file %r (%s)"
 msgstr "Грешка при отваряне на файл %r (%s)"
@@ -65311,13 +65314,13 @@ msgid "Multiple selected objects. Only the active one will be evaluated"
 msgstr "Много избрани обекти. Само активният ще бъде оценен."
 
 msgid "Object has zero volume"
-msgstr "Обектът има нула обем"
+msgstr "Обектът е с нулев обем"
 
 msgid "Object has zero bounds"
 msgstr "Обектът няма граници."
 
 msgid "Report is out of date, re-run check"
-msgstr "Докладът е изтекъл, проверката е направена отново."
+msgstr "Докладът е остарял. Стартирайте проверката отново"
 
 msgid "Statistics"
 msgstr "Статистика"
@@ -65328,7 +65331,7 @@ msgstr "Обем"
 
 msgctxt "Operator"
 msgid "Area"
-msgstr "Зона"
+msgstr "Площ"
 
 msgid "Checks"
 msgstr "Проверки"
@@ -65339,7 +65342,7 @@ msgstr "Твърди"
 
 msgctxt "Operator"
 msgid "Intersections"
-msgstr "Интерсекции"
+msgstr "Пресичания"
 
 msgctxt "Operator"
 msgid "Degenerate"
@@ -65351,7 +65354,7 @@ msgstr "Изкривено"
 
 msgctxt "Operator"
 msgid "Edge Sharp"
-msgstr "Ръб Остър"
+msgstr "Остри ръбове"
 
 msgctxt "Operator"
 msgid "Overhang"
@@ -65363,7 +65366,7 @@ msgstr "Проверка на всички"
 
 msgctxt "Operator"
 msgid "Make Manifold"
-msgstr "Марка Колектор"
+msgstr "Поправи manifold"
 
 msgid "Scale To"
 msgstr "Мащабиране до"
@@ -65385,11 +65388,11 @@ msgstr "Режим на демо:"
 msgid ""
 "No configuration found with text or file: %s. Run File -> Demo Mode Setup"
 msgstr ""
-"Не е намерена конфигурация с текст или файл: %s. Изпълнение на файл - > "
-"Настройки на режима на демо"
+"Не е намерена конфигурация с текст или файл: %s. Използвайте File -> Demo "
+"Mode Setup"
 
 msgid "Save to PO File"
-msgstr "Запис в пощенския файл"
+msgstr "Запази в PO файл"
 
 msgid "Rebuild MO File"
 msgstr "Възстановяване на МО файл"
@@ -65398,13 +65401,13 @@ msgid "Erase Local MO files"
 msgstr "Изтриване на локални МО файлове"
 
 msgid "invoke() needs to be called before execute()"
-msgstr "Позоваване() трябва да се нарече преди изпълнение()"
+msgstr "invoke() трябва да се извика преди execute()"
 
 msgid "    RNA Path: bpy.types."
-msgstr "РНК път: бпй. тйпес."
+msgstr "    RNA Path: bpy.types."
 
 msgid "    RNA Context: "
-msgstr "РНК контекст:"
+msgstr "    RNA Context: "
 
 msgid "Labels:"
 msgstr "Етикети:"
@@ -65416,30 +65419,29 @@ msgid "Button Label:"
 msgstr "Етикет на бутон:"
 
 msgid "RNA Label:"
-msgstr "РНК етикет:"
+msgstr "RNA етикет:"
 
 msgid "Enum Item Label:"
 msgstr "Етикет на елемента на Енум:"
 
 msgid "Button Tip:"
-msgstr "Съвет от бутон:"
+msgstr "Подсказка на бутон:"
 
 msgid "RNA Tip:"
-msgstr "РНК Съвет:"
+msgstr "RNA подсказка:"
 
 msgid "Enum Item Tip:"
-msgstr "Съвет на Енум елемент:"
+msgstr "Подсказка на enum елемент:"
 
 msgid "Could not write to po file ({})"
-msgstr "Грешка при запис в По файл ({})"
+msgstr "Неуспешен запис в PO файл ({})"
 
 msgid ""
 "WARNING: preferences are lost when add-on is disabled, be sure to use \"Save"
 " Persistent\" if you want to keep your settings!"
 msgstr ""
-"ВНИМАНИЕ: предпочитанията са загубени, когато добавянето е деактивирано, не "
-"забравяйте да използвате \"Запази трайно\" ако искате да запазите "
-"настройките си!"
+"ПРЕДУПРЕЖДЕНИЕ: предпочитанията се губят при изключване на добавката. "
+"Използвайте \"Save Persistent\", ако искате да запазите настройките"
 
 msgctxt "Operator"
 msgid "Save Persistent To..."
@@ -65454,30 +65456,30 @@ msgid "Load"
 msgstr "Зареждане"
 
 msgid "No add-on module given!"
-msgstr "Няма добавени модули!"
+msgstr "Не е зададен модул на добавка"
 
 msgid "Add-on '{}' not found!"
-msgstr "Добавяне на '{}' не е открито!"
+msgstr "Добавката '{}' не е намерена"
 
 msgid "Info written to {} text datablock!"
-msgstr "Информация, написана на {} текстов блок!"
+msgstr "Информацията е записана в текстовия блок {}"
 
 msgid "Message extraction process failed!"
 msgstr "Процесът на извличане на съобщението се провали!"
 
 msgid "Could not init languages data!"
-msgstr "Грешка при въвеждане на данни за езиците!"
+msgstr "Неуспешно инициализиране на данните за езиците"
 
 msgid "Please edit the preferences of the UI Translate add-on"
-msgstr "Моля, редактирайте предпочитанията на УИ Транслате адд- он"
+msgstr "Редактирайте предпочитанията на добавката UI Translate"
 
 msgctxt "Operator"
 msgid "Reset Settings"
-msgstr "Настройване на настройките"
+msgstr "Нулирай настройките"
 
 msgctxt "Operator"
 msgid "Deselect All"
-msgstr "Отменяне на всички"
+msgstr "Изчисти избора"
 
 msgctxt "Operator"
 msgid "Update Branches"
