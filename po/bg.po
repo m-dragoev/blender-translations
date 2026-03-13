@@ -38653,7 +38653,7 @@ msgid "Update Reports Display"
 msgstr "Показване на актуализирани доклади"
 
 msgid "Update the display of reports in Blender UI (internal use)"
-msgstr "Обновяване на дисплея на докладите в Блендер УИ (вътрешно използване)"
+msgstr "Обновяване на показването на докладите в Blender UI (вътрешна употреба)"
 
 msgid "Change selection of all visible reports"
 msgstr "Промяна на избора на всички видими доклади"
@@ -48614,12 +48614,12 @@ msgid "Stats from opened po"
 msgstr "Статистики от отворения по"
 
 msgid "Try to rebuild mo file, and refresh Blender's UI"
-msgstr "Опитайте се да възстановите Мо файл, и освежете Блендер'с УИ"
+msgstr "Опит за повторно изграждане на MO файла и опресняване на Blender UI"
 
 msgid "Update po file, try to rebuild mo file, and refresh Blender's UI"
 msgstr ""
-"Обновяване на По файл, опитайте се да възстановите Мо файл, и освежаване на "
-"Блендер УИ"
+"Обновяване на PO файла, опит за повторно изграждане на MO файла и "
+"опресняване на Blender UI"
 
 msgid "Edit i18n in current language for the active button"
 msgstr "Редактиране на и18н на текущия език за активния бутон"
